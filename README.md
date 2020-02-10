@@ -1,7 +1,5 @@
 <h1 id="sistema-para-controle-de-desvios-de-produto">Sistema para controle de Desvios de Produto</h1>
 
-<p><strong>Cliente:</strong> Datateck Industria e Comercio.</p>
-<p><strong>Data</strong> 05 de Fevereiro de 2020.
 <br><br>
 <h2 id="escopo">Escopo:</h2>
 <p>Aplicativo para controle de Desvios de produtos com base no documento   R.Q. 101.</p>
