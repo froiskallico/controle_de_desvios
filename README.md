@@ -36,10 +36,10 @@
 <li>Upload de fotos tiradas diretamente com a câmera do celular.</li>
 </ul>
 <h2 id="stack">Stack:</h2>
-<img src="http://www.tritec.rf.gd/images/stack.png" height="700px">
+<img src="http://tritec.rf.gd/comercial/orcamento_datateck_webapp_desvios/stack.png" height="700px">
 <p><em>Ficará a cargo da Datateck fornecer VPS com acesso remoto para testes, hospedagem do servidor e banco de dados da aplicação ou, se preferir, contratação de serviço de hospedagem cloud (AWS, GCP, Azuew, etc)</em></p>
 <h2 id="wireframes">Wireframes:</h2>
-<h3 id="desktop">         <strong>Desktop:</strong></h3>
+<h3 id="desktop"><strong>Desktop:</strong></h3>
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg1ae183wxqQCVINWDuoRXE%2FWireframe-Desvios%3Fnode-id%3D2%253A504%26scaling%3Dcontain" allowfullscreen></iframe>
 <h3 id="mobile">         <strong>Mobile:</strong></h3>
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg1ae183wxqQCVINWDuoRXE%2FWireframe-Desvios%3Fnode-id%3D35%253A117%26scaling%3Dscale-down" allowfullscreen></iframe>
