@@ -36,7 +36,7 @@
 <li>Upload de fotos tiradas diretamente com a câmera do celular.</li>
 </ul>
 <h2 id="stack">Stack:</h2>
-<img src="./stack.png" height="700px">
+<img src="http://www.tritec.rf.gd/images/stack.png" height="700px">
 <p><em>Ficará a cargo da Datateck fornecer VPS com acesso remoto para testes, hospedagem do servidor e banco de dados da aplicação ou, se preferir, contratação de serviço de hospedagem cloud (AWS, GCP, Azuew, etc)</em></p>
 <h2 id="wireframes">Wireframes:</h2>
 <h3 id="desktop">         <strong>Desktop:</strong></h3>
