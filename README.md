@@ -27,7 +27,7 @@ Aplicativo para controle de Desvios de produtos com base no documento   R.Q. 101
 - Upload de fotos tiradas diretamente com a câmera do celular.
 
 ## Stack:
-![]("./stack.png")
+![](./stack.png)
 
 ## Wireframes:
 
