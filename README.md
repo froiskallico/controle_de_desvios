@@ -27,33 +27,13 @@ Aplicativo para controle de Desvios de produtos com base no documento   R.Q. 101
 - Upload de fotos tiradas diretamente com a câmera do celular.
 
 ## Stack:
-<img src="http://tritec.rf.gd/comercial/orcamento_datateck_webapp_desvios/stack.png" height="700px">
+![]("http://tritec.rf.gd/comercial/orcamento_datateck_webapp_desvios/stack.png")
 
 ## Wireframes:
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Desktop:**
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg1ae183wxqQCVINWDuoRXE%2FWireframe-Desvios%3Fnode-id%3D2%253A504%26scaling%3Dcontain" allowfullscreen></iframe>
+### **Desktop:**
+https://www.figma.com/proto/g1ae183wxqQCVINWDuoRXE/Wireframe-Desvios?node-id=2%3A504&scaling=scale-down-width
 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Mobile:**
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg1ae183wxqQCVINWDuoRXE%2FWireframe-Desvios%3Fnode-id%3D35%253A117%26scaling%3Dscale-down" allowfullscreen></iframe>
-
-## Investimento Líquido
-### R$ 2.390,00 (Dois mil trezentos e noventa reais) 
-
-## Forma de pagamento
-- ### 50% no deploy completo da aplicação conforme escopo;
-- ### 50% 30dd após deploy.
-
-## Entrega
-### &nbsp;&nbsp;&nbsp;&nbsp;  Até 30 dias após aprovação da proposta;
-&nbsp;&nbsp;&nbsp;&nbsp; *Neste período poderão ocorrer entregas parciais, para validação e testes da aplicação.*
-
-## Validade da Proposta
-### &nbsp;&nbsp;&nbsp;&nbsp; 30 dias
-
-
-<br>
-
- Atenciosamente,
-**Kallico Fróis**
+### **Mobile:**
+https://www.figma.com/proto/g1ae183wxqQCVINWDuoRXE/Wireframe-Desvios?node-id=35%3A117&scaling=scale-down
